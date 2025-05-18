@@ -98,7 +98,7 @@ const AboutSection: React.FC = () => {
                       2022 - 2026 (Expected)
                     </p>
                     <p className="text-gray-600 dark:text-gray-300 mt-2">
-                      6 semesters completed with focus on software development, algorithms, and AI.
+                      Gained practical skills in software engineering , focusing on building scalable applications using AI, algorithms and modern development frameworks.
                     </p>
                   </div>
                 </div>
