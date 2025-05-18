@@ -36,7 +36,7 @@ const HeroSection: React.FC = () => {
           </motion.h1>
           
           <AnimatedText 
-            text="Building AI-powered tools, full-stack platforms, and automation bots that solve real problems."
+            text="Building AI-powered apps, full-stack Software and automation bots that solve real problems."
             className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-xl mb-10"
           />
           
